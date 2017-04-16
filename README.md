@@ -13,9 +13,9 @@ For a list of free hacking books available for download, go [here](https://githu
 
 - [System](#system)
     - [Tutorials](#tutorials)
-    - [Tools](#system-tools)
-    - [Docker](#system-docker)
-    - [General](#system-general)
+    - [Tools](#tools)
+    - [Docker](#docker)
+    - [General](#general)
 - [Reverse Engineering](#reverse-engineering)
     - [Tutorials](#reverse-engineering-tutorials)
     - [Tools](#reverse-engineering-tools)
