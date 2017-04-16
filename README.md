@@ -14,7 +14,7 @@ For a list of free hacking books available for download, go [here](https://githu
 - [System](#system)
     - [Tutorials](#tutorials)
     - [Tools](#tools)
-    - [Docker](#docker-images-for-penetration-testing-&-security)
+    - [Docker](#docker-images-for-penetration-testing-and-security)
     - [General](#general)
 - [Reverse Engineering](#reverse-engineering)
     - [Tutorials](#reverse-engineering-tutorials)
@@ -58,7 +58,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Metasploit](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
  * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
-### Docker Images for Penetration Testing & Security
+### Docker Images for Penetration Testing and Security
  * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
  * `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
  * `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
